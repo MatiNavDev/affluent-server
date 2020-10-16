@@ -12,7 +12,7 @@ const app = express();
 app.use(bodyParser.json());
 
 app.use(function(req, res, next) {
-  res.header('Access-Control-Allow-Origin', 'https://someProject.herokuapp.com');
+  res.header('Access-Control-Allow-Origin', 'http://localhost:3000');
   res.header('Access-Control-Allow-Headers', 'Content-Type');
   next();
 });
