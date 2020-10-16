@@ -26,7 +26,7 @@ This project is coded for development purpose, so the queries are coded to handl
 ### How to Run It
 
   1) npm i
-  2) PUPPETEER_PRODUCT=firefox npm i
+  2) PUPPETEER_PRODUCT=firefox npm i puppeteer
   3) add enviroment vars
   4) nvm use 12 ( puppeteer problems )
   5) npm start
