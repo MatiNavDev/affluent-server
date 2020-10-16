@@ -22,7 +22,7 @@ This project shows some external data which is previously got and saved in our D
 
 This project is coded for development purpose, so the queries are coded to handle sql injection. Also, it only makes a simple console.log to handle error
 
-## how run it ?
+## How to run it ?
 
   1) npm i
   2) PUPPETEER_PRODUCT=firefox npm i
